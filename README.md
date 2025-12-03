@@ -25,4 +25,3 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true)
