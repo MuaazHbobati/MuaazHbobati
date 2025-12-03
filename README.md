@@ -1,6 +1,8 @@
-![Header image](https://raw.githubusercontent.com/YourUserName/YourUserName/master/assets/header.jpg)
+
+![Header image](https://github.com/MuaazHbobati/MuaazHbobati/blob/main/Cover.jpg)
 
 # Hi there 👋 I'm Mohammad Muaaz Hbobati
+
 
 **Programmer | IT Engineering Student | Skilled in Databases, Data Structures & Programming Languages C++ and C#**
 
