@@ -1,16 +1,26 @@
-## Hi there 👋
+![Header image](https://raw.githubusercontent.com/YourUserName/YourUserName/master/assets/header.jpg)
 
-<!--
-**MuaazHbobati/MuaazHbobati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋 I'm Mohammad Muaaz Hbobati
 
-Here are some ideas to get you started:
+**Programmer | IT Engineering Student | Skilled in Databases, Data Structures & Programming Languages C++ and C#**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚡ Skills:
+- C++
+- C#
+- Database SQL Server
+- SQL Language
+- ADO.Net
+- Data Structures
+- Windows Form Application (.NET Framework)
+
+---
+
+## 🌐 Connect with me:
+[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-orange?style=flat-square&logo=LeetCode&logoColor=white&link=https://leetcode.com/Mohammad_Muaaz_Hbobati/)](https://leetcode.com/Mohammad_Muaaz_Hbobati/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammed-mouaz-hbobati-54a2992a1)](https://www.linkedin.com/in/mohammed-mouaz-hbobati-54a2992a1)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true)
