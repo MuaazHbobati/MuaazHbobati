@@ -4,18 +4,26 @@
 # Hi there 👋 I'm Mohammad Muaaz Hbobati
 
 
-**Programmer | IT Engineering Student | Skilled in Databases, Data Structures & Programming Languages C++ and C#**
+**Programmer | IT Engineering Student**
 
 ---
 
 ## ⚡ Skills:
-- C++
-- C#
-- Database SQL Server
-- SQL Language
-- ADO.Net
-- Data Structures
+- Clean Architecture (Domain-Application-Infrastructure-Presentation)
+  & Dependency Injection & DTOs
+- ASP.NET Core Web API (.Net Core 8.0.0) & C#
+- Entity Framework Core (Code First) & LINQ
+- RESTful APIs
+- JWT Authentication
+- SQL Server
 - Windows Form Application (.NET Framework)
+- ADO.NET
+- C++
+- Data Structures & Algorithms
+---
+- HTML5 & CSS3
+- JavaScript
+- TypeScript
 
 ---
 
