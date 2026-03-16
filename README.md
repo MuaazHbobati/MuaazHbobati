@@ -17,12 +17,14 @@
 - JWT Authentication
 - SQL Server
 - Windows Form Application (.NET Framework)
+- 3-Tier Architecture
 - ADO.NET
 - C++
 - Data Structures & Algorithms
 ---
+- React.js (19.2.0)
 - HTML5 & CSS3
-- JavaScript
+- JavaScript (ES6)
 - TypeScript
 
 ---
