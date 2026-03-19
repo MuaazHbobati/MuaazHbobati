@@ -1,37 +1,37 @@
-
 ![Header image](https://github.com/MuaazHbobati/MuaazHbobati/blob/main/Cover.jpg)
 
 # Hi there 👋 I'm Mohammad Muaaz Hbobati
-
 
 **Programmer | IT Engineering Student**
 
 ---
 
-## ⚡ Skills:
+## ⚡ Skills
+
+**Backend & Architecture**
 - Clean Architecture (Domain-Application-Infrastructure-Presentation)
-  & Dependency Injection & DTOs
-- ASP.NET Core Web API (.Net Core 8.0.0) & C#
+- ASP.NET Core Web API (.NET 8) & C#
 - Entity Framework Core (Code First) & LINQ
-- RESTful APIs
-- JWT Authentication
+- RESTful APIs & JWT Authentication
+- 3-Tier Architecture & ADO.NET
+- Windows Forms (.NET Framework)
+
+**Frontend**
+- React.js
+- TypeScript & JavaScript (ES6)
+- HTML5 & CSS3
+
+**Core**
 - SQL Server
-- Windows Form Application (.NET Framework)
-- 3-Tier Architecture
-- ADO.NET
 - C++
 - Data Structures & Algorithms
----
-- React.js (19.2.0)
-- HTML5 & CSS3
-- JavaScript (ES6)
-- TypeScript
 
 ---
 
-## 🌐 Connect with me:
-[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-orange?style=flat-square&logo=LeetCode&logoColor=white&link=https://leetcode.com/Mohammad_Muaaz_Hbobati/)](https://leetcode.com/Mohammad_Muaaz_Hbobati/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammed-mouaz-hbobati-54a2992a1)](https://www.linkedin.com/in/mohammed-mouaz-hbobati-54a2992a1)
+## 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-mouaz-hbobati-54a2992a1)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/Mohammad_Muaaz_Hbobati/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/MuaazHbobati)
 
 ---
-
