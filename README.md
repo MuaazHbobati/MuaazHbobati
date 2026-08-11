@@ -4,6 +4,7 @@
 
 **Programmer | IT Engineering Student**
 
+
 ---
 
 ## ⚡ Skills
@@ -15,10 +16,12 @@
 - RESTful APIs & JWT Authentication
 - 3-Tier Architecture & ADO.NET
 - Windows Forms (.NET Framework)
+- SignalR
+- Redis (Caching)
 
 **Frontend**
 - React.js
-- TypeScript & JavaScript (ES6)
+- JavaScript (ES6)
 - HTML5 & CSS3
 
 **Core**
